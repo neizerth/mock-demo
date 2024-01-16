@@ -1,0 +1,11 @@
+[
+    {
+        "id":"ebv",
+        "url":"https://cdn2.thecatapi.com/images/ebv.jpg",
+        "owner": "Ivan",
+        "width":176,
+        "height":540,
+        "breeds":[],
+        "favourite":{}
+    }
+]
